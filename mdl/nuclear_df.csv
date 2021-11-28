@@ -1,0 +1,195 @@
+,country_long,kw_thermal,name,gppd_idnr,capacity_mw,latitude,longitude,commissioning_year,owner,source,url,geolocation_source,year_of_capacity_data
+72,Argentina,1179,ATUCHA I,ARG0000029,370,-33.967,-59.2059,1974,NASA,Ministerio de Energía y Minería,http://energia3.mecon.gov.ar/contenidos/archivos/Reorganizacion/informacion_del_mercado/publicaciones/mercado_electrico/estadisticosectorelectrico/2015/A1.POT_GEN_COMB_POR_CENTRAL_2015.xlsx,Ministerio de Energía y Minería,2015
+73,Argentina,2000,ATUCHA II,ARG0000030,745,-33.9674,-59.2045,2014,NASA,Ministerio de Energía y Minería,http://energia3.mecon.gov.ar/contenidos/archivos/Reorganizacion/informacion_del_mercado/publicaciones/mercado_electrico/estadisticosectorelectrico/2015/A1.POT_GEN_COMB_POR_CENTRAL_2015.xlsx,Ministerio de Energía y Minería,2015
+197,Argentina,2109,EMBALSE,ARG0000112,648,-32.2316,-64.4422,1984,NASA,Ministerio de Energía y Minería,http://energia3.mecon.gov.ar/contenidos/archivos/Reorganizacion/informacion_del_mercado/publicaciones/mercado_electrico/estadisticosectorelectrico/2015/A1.POT_GEN_COMB_POR_CENTRAL_2015.xlsx,Ministerio de Energía y Minería,2015
+294,Armenia,1375,Armenian-2,WRI1019028,375,40.1805,44.1498,1980,Armenian Nuclear Power Company,IAEA,https://www.iaea.org/PRIS/CountryStatistics/ReactorDetails.aspx?current=2,GEODB,
+942,Belgium,2988,DOEL 4,WRI1002223,2910,51.3254,4.2597,1985,,ELIA Belgian Grid Operator,http://publications.elia.be/upload/ProductionParkOverview.html?TS=20120416193815,GEODB,
+978,Belgium,2873,TIHANGE 1N,WRI1002275,962,50.5342,5.2751,1975,,ELIA Belgian Grid Operator,http://publications.elia.be/upload/ProductionParkOverview.html?TS=20120416193815,GEODB,
+979,Belgium,3000,TIHANGE 3,WRI1002277,2053.8,50.5342,5.2751,1985,,ELIA Belgian Grid Operator,http://publications.elia.be/upload/ProductionParkOverview.html?TS=20120416193815,GEODB,
+1099,Brazil,,Almirante Álvaro Alberto - Unidade I (Antiga Angra I),BRA0000100,640,-23.0087,-44.4574,1985,,Agência Nacional de Energia Elétrica (Brazil),http://www2.aneel.gov.br/aplicacoes/capacidadebrasil/capacidadebrasil.cfm,Agência Nacional de Energia Elétrica (Brazil),2017
+1100,Brazil,,Almirante Álvaro Alberto - Unidade II (Antiga Angra II),BRA0000101,1350,-23.0072,-44.4588,2000,,Agência Nacional de Energia Elétrica (Brazil),http://www2.aneel.gov.br/aplicacoes/capacidadebrasil/capacidadebrasil.cfm,Agência Nacional de Energia Elétrica (Brazil),2017
+3395,Bulgaria,6240,KOZLODUY,WRI1008053,2000,43.7438,23.7723,,,ENTSOE,https://transparency.entsoe.eu/generation/r2/installedCapacityPerProductionUnit/show,WRI,
+3570,Canada,,Bruce A,CAN0002030,3220,44.3391,-81.5747,,Bruce Power LP,Natural Resources Canada,http://ftp.maps.canada.ca/pub/nacei_cnaie/energy_infrastructure/PowerPlantsAllGE100MW_NorthAmerica_201708.xlsx,Natural Resources Canada,2017
+3571,Canada,,Bruce B,CAN0002031,3390,44.319,-81.6027,,Bruce Power LP,Natural Resources Canada,http://ftp.maps.canada.ca/pub/nacei_cnaie/energy_infrastructure/PowerPlantsAllGE100MW_NorthAmerica_201708.xlsx,Natural Resources Canada,2017
+3691,Canada,11104,Darlington,CAN0002043,3740,43.8697,-78.7239,,,Natural Resources Canada,http://ftp.maps.canada.ca/pub/nacei_cnaie/energy_infrastructure/PowerPlantsAllGE100MW_NorthAmerica_201708.xlsx,Natural Resources Canada,2017
+4191,Canada,3488,Pickering A,CAN0002073,1084,43.8107,-79.0689,,,Natural Resources Canada,http://ftp.maps.canada.ca/pub/nacei_cnaie/energy_infrastructure/PowerPlantsAllGE100MW_NorthAmerica_201708.xlsx,Natural Resources Canada,2017
+4192,Canada,6976,Pickering B,CAN0002074,2160,43.8096,-79.0639,,,Natural Resources Canada,http://ftp.maps.canada.ca/pub/nacei_cnaie/energy_infrastructure/PowerPlantsAllGE100MW_NorthAmerica_201708.xlsx,Natural Resources Canada,2017
+4204,Canada,2180,Point Lepreau,CAN0002076,660,45.0686,-66.4543,,,Natural Resources Canada,http://ftp.maps.canada.ca/pub/nacei_cnaie/energy_infrastructure/PowerPlantsAllGE100MW_NorthAmerica_201708.xlsx,Natural Resources Canada,2017
+4972,China,,CEFR,WRI1061016,20,39.74,116.03,,,IAEA,https://www.iaea.org/PRIS/CountryStatistics/CountryDetails.aspx?current=CN,,
+5050,China,,Changjiang,WRI1061017,1220,19.46,108.9,,,IAEA,https://www.iaea.org/PRIS/CountryStatistics/CountryDetails.aspx?current=CN,,
+5252,China,2905,Daya Bay,WRI1061018,1888,22.6,114.54,,,IAEA,https://www.iaea.org/PRIS/CountryStatistics/CountryDetails.aspx?current=CN,,
+5317,China,5810,Fangchenggang,WRI1061019,2000,21.67,108.56,,,IAEA,https://www.iaea.org/PRIS/CountryStatistics/CountryDetails.aspx?current=CN,,
+5319,China,5810,Fangjiashan,WRI1061020,2024,30.44,120.94,,,IAEA,https://www.iaea.org/PRIS/CountryStatistics/CountryDetails.aspx?current=CN,,
+5392,China,11620,Fuqing,WRI1061021,4000,25.4426,119.444,,,IAEA,https://www.iaea.org/PRIS/CountryStatistics/CountryDetails.aspx?current=CN,,
+5828,China,11620,Hongyanhe,WRI1061022,4183,39.8,121.48,,,IAEA,https://www.iaea.org/PRIS/CountryStatistics/CountryDetails.aspx?current=CN,,
+6550,China,3960,Ling Ao,WRI1061023,3914,22.6,114.55,,,IAEA,https://www.iaea.org/PRIS/CountryStatistics/CountryDetails.aspx?current=CN,CARMA,
+6712,China,,Ningde,WRI1061024,4072,27.0446,120.2855,,,IAEA,https://www.iaea.org/PRIS/CountryStatistics/CountryDetails.aspx?current=CN,,
+6884,China,7720,Qinshan 2,WRI1061025,4101,30.433,120.9501,,,IAEA,https://www.iaea.org/PRIS/CountryStatistics/CountryDetails.aspx?current=CN,,
+7327,China,5905,Tianwan,WRI1061026,1980,34.69,119.46,,,IAEA,https://www.iaea.org/PRIS/CountryStatistics/CountryDetails.aspx?current=CN,,
+7582,China,11620,Yangjiang,WRI1061027,4000,21.71,112.26,,,IAEA,https://www.iaea.org/PRIS/CountryStatistics/CountryDetails.aspx?current=CN,,
+8080,Czech Republic,,Dukonavy,WRI1019175,2040,49.0852,16.1479,,CEZ Group,CEZ Group,https://www.cez.cz/en/power-plants-and-environment/nuclear-power-plants/dukovany.html,WRI,
+8348,Czech Republic,,Temelín,WRI1019174,2133,49.1796,14.3795,2002,CEZ Group,CEZ Group,https://www.cez.cz/en/power-plants-and-environment/nuclear-power-plants/temelin.html,WRI,
+8723,Finland,3000,Loviisa Y1,WRI1002445,992,60.3708,26.3468,,Fortum Power & Heat   Power,Finnish Energy Authority,http://www.energiavirasto.fi/en/voimalaitosrekisteri,GEODB,
+8744,Finland,5000,Olkiluoto 1,WRI1002473,1760,61.2371,21.4433,,Teollisuuden Voima Oyj,Finnish Energy Authority,http://www.energiavirasto.fi/en/voimalaitosrekisteri,GEODB,
+8943,France,7634,BELLEVILLE,WRI1002693,2620,47.5103,2.875,,,RTE Transmission Operator,http://clients.rte-france.com/lang/an/visiteurs/vie/prod/parc_reference.jsp,GEODB,
+8944,France,11140,BLAYAIS,WRI1002694,3640,45.256,-0.6932,,,RTE Transmission Operator,http://clients.rte-france.com/lang/an/visiteurs/vie/prod/parc_reference.jsp,GEODB,
+8951,France,11140,BUGEY,WRI1002701,3580,45.7973,5.2706,,,RTE Transmission Operator,http://clients.rte-france.com/lang/an/visiteurs/vie/prod/parc_reference.jsp,GEODB,
+9105,France,15268,CATTENOM,WRI1002703,5200,49.416,6.2169,,,RTE Transmission Operator,http://clients.rte-france.com/lang/an/visiteurs/vie/prod/parc_reference.jsp,GEODB,
+9108,France,11140,CHINON,WRI1002706,3620,47.2254,0.1656,,,RTE Transmission Operator,http://clients.rte-france.com/lang/an/visiteurs/vie/prod/parc_reference.jsp,GEODB,
+9109,France,8540,CHOOZ,WRI1002707,3000,50.09,4.7894,,,RTE Transmission Operator,http://clients.rte-france.com/lang/an/visiteurs/vie/prod/parc_reference.jsp,GEODB,
+9110,France,8540,CIVAUX,WRI1002708,2990,46.4563,0.6548,,,RTE Transmission Operator,http://clients.rte-france.com/lang/an/visiteurs/vie/prod/parc_reference.jsp,GEODB,
+9117,France,11140,CRUAS,WRI1002716,3660,44.6325,4.7546,,,RTE Transmission Operator,http://clients.rte-france.com/lang/an/visiteurs/vie/prod/parc_reference.jsp,GEODB,
+9325,France,11140,DAMPIERRE,WRI1002720,3560,47.7321,2.5185,,,RTE Transmission Operator,http://clients.rte-france.com/lang/an/visiteurs/vie/prod/parc_reference.jsp,GEODB,
+9392,France,,FESSENHEIM,WRI1002727,1760,47.9032,7.5631,,,RTE Transmission Operator,http://clients.rte-france.com/lang/an/visiteurs/vie/prod/parc_reference.jsp,GEODB,
+9393,France,7634,FLAMANVILLE,WRI1002728,2660,49.5366,-1.8823,,,RTE Transmission Operator,http://clients.rte-france.com/lang/an/visiteurs/vie/prod/parc_reference.jsp,GEODB,
+9465,France,7634,GOLFECH,WRI1002733,2620,44.106,0.8443,,,RTE Transmission Operator,http://clients.rte-france.com/lang/an/visiteurs/vie/prod/parc_reference.jsp,GEODB,
+9467,France,16710,GRAVELINES,WRI1002735,5460,51.0141,2.1332,,,RTE Transmission Operator,http://clients.rte-france.com/lang/an/visiteurs/vie/prod/parc_reference.jsp,GEODB,
+10035,France,7634,NOGENT,WRI1002749,2620,48.5171,3.5181,,,RTE Transmission Operator,http://clients.rte-france.com/lang/an/visiteurs/vie/prod/parc_reference.jsp,GEODB,
+10107,France,15268,PALUEL,WRI1002752,5320,49.8582,0.6354,,,RTE Transmission Operator,http://clients.rte-france.com/lang/an/visiteurs/vie/prod/parc_reference.jsp,GEODB,
+10109,France,7634,PENLY,WRI1002754,2660,49.9764,1.2107,,,RTE Transmission Operator,http://clients.rte-france.com/lang/an/visiteurs/vie/prod/parc_reference.jsp,GEODB,
+10327,France,7634,ST ALBAN,WRI1002777,2670,45.4043,4.7554,,,RTE Transmission Operator,http://clients.rte-france.com/lang/an/visiteurs/vie/prod/parc_reference.jsp,GEODB,
+10329,France,5570,ST LAURENT,WRI1002779,1830,47.7197,1.5783,,,RTE Transmission Operator,http://clients.rte-france.com/lang/an/visiteurs/vie/prod/parc_reference.jsp,GEODB,
+10645,France,2785,TRICASTIN 1,WRI1002782,3660,44.3311,4.7311,,,RTE Transmission Operator,http://clients.rte-france.com/lang/an/visiteurs/vie/prod/parc_reference.jsp,GEODB,
+10921,Germany,3900,BROKDORF,WRI1005621,1480,53.8506,9.345,1986,,IAEA,https://www.iaea.org/PRIS/CountryStatistics/CountryStatisticsLandingPage.aspx,GEODB,
+11061,Germany,3850,EMSLAND,WRI1005659,1406,52.4716,7.3204,1988,,IAEA,https://www.iaea.org/PRIS/CountryStatistics/CountryStatisticsLandingPage.aspx,GEODB,
+11161,Germany,3900,Grohnde,WRI1005703,1360,52.0356,9.4135,1985,E.ON Kernkraft GmbH,Open Power System Data,http://data.open-power-system-data.org/,Open Power System Data,
+11321,Germany,3950,ISAR-2,WRI1005849,1485,48.6049,12.2936,1988,,IAEA,https://www.iaea.org/PRIS/CountryStatistics/CountryStatisticsLandingPage.aspx,GEODB,
+11369,Germany,3840,Kernkraft Gundremmingen,WRI1005856,1288,48.515,10.4016,1984,Kernkraftwerk Gundremmingen GmbH (KGG),Open Power System Data,http://data.open-power-system-data.org/,Open Power System Data,
+11498,Germany,3850,NECKARWESTHEIM-2,WRI1005974,1400,49.0408,9.1759,1989,,IAEA,https://www.iaea.org/PRIS/CountryStatistics/CountryStatisticsLandingPage.aspx,GEODB,
+12066,Hungary,,Paksi Atomerőmű,WRI1020246,1886.8,46.5739,18.8536,,,ENTSOE,https://transparency.entsoe.eu/generation/r2/installedCapacityPerProductionUnit/show,WRI,
+12243,India,,DAE RAJASTHAN,IND0000086,100,24.8747,75.6189,1972,,Central Electricity Authority,http://www.cea.nic.in/,WRI,2018
+12387,India,3200,KAIGA,IND0000170,880,14.865,74.4385,2004,,Central Electricity Authority,http://www.cea.nic.in/,WRI,2018
+12390,India,,KAKRAPARA,IND0000173,440,21.2384,73.3489,1993,,Central Electricity Authority,http://www.cea.nic.in/,WRI,2018
+12488,India,6000,Kudankulam,WRI1026848,2000,8.1689,77.7126,,,IAEA,https://www.iaea.org/PRIS/CountryStatistics/ReactorDetails.aspx?current=853,WRI,
+12512,India,,M.A.P.P.,IND0000242,440,12.5571,80.1754,1984,,Central Electricity Authority,http://www.cea.nic.in/,WRI,2018
+12574,India,,N.A.P.S,IND0000283,440,28.156,78.4089,1990,,Central Electricity Authority,http://www.cea.nic.in/,WRI,2018
+12679,India,,R.A.P.S.,IND0000350,1080,24.8747,75.6189,2000,,Central Electricity Authority,http://www.cea.nic.in/,WRI,2018
+12838,India,4520,TARAPUR,IND0000445,1400,19.8294,72.6617,1996,,Central Electricity Authority,http://www.cea.nic.in/,WRI,2018
+13140,Iran,3000,Bushehr,WRI1023916,1000,28.8298,50.8857,2011,Nuclear Power Production and Development Company of Iran,IAEA,https://www.iaea.org/PRIS/CountryStatistics/ReactorDetails.aspx?current=310,WRI,
+13634,Japan,6846,Genkai,WRI1000687,2254,33.5152,129.836,,Kyushu,Japanese Electric Power Information Center,https://www.jepic.or.jp/en/,GEODB,
+13643,Japan,10512,Hamaoka,WRI1000680,3477,34.6235,138.1421,,Chubu,Japanese Electric Power Information Center,https://www.jepic.or.jp/en/,GEODB,
+13651,Japan,3293,Higashi-Dori,WRI1000675,1100,41.188,141.3903,,Tohoku,Japanese Electric Power Information Center,https://www.jepic.or.jp/en/,GEODB,
+13665,Japan,2660,Ikata,WRI1000686,2022,33.4909,132.3088,,Shikoku,Japanese Electric Power Information Center,https://www.jepic.or.jp/en/,GEODB,
+13701,Japan,24317,Kashiwazaki Kariwa,WRI1000679,8212,37.4259,138.5941,,Tokyo,Japanese Electric Power Information Center,https://www.jepic.or.jp/en/,GEODB,
+13747,Japan,2440,Mihama,WRI1000682,826,35.7024,135.9634,,Kansai,Japanese Electric Power Information Center,https://www.jepic.or.jp/en/,GEODB,
+13790,Japan,6846,Ohi,WRI1000684,1127,35.5424,135.6544,,Kansai,Japanese Electric Power Information Center,https://www.jepic.or.jp/en/,GEODB,
+13808,Japan,4872,Onagawa,WRI1000676,1592,38.4,141.5,,Tohoku,Japanese Electric Power Information Center,https://www.jepic.or.jp/en/,GEODB,
+13836,Japan,5320,Sendai,WRI1000688,1780,31.8335,130.1887,,Kyushu,Japanese Electric Power Information Center,https://www.jepic.or.jp/en/,GEODB,
+13841,Japan,,Shika,WRI1000681,1746,37.0609,136.7265,,Hokuriku,Japanese Electric Power Information Center,https://www.jepic.or.jp/en/,GEODB,
+13843,Japan,,Shimane,WRI1000685,820,35.5379,132.9991,,Chugoku,Japanese Electric Power Information Center,https://www.jepic.or.jp/en/,GEODB,
+13873,Japan,,Takahama,WRI1000683,3392,35.5223,135.5036,,Kansai,Japanese Electric Power Information Center,https://www.jepic.or.jp/en/,GEODB,
+13893,Japan,,Tokai Daini,WRI1000689,1100,36.4215,140.6028,,Japan Atomic Power Co.,Japanese Electric Power Information Center,https://www.jepic.or.jp/en/,GEODB,
+13900,Japan,,Tomari,WRI1000674,2000,43.0367,140.5125,,Hokkaido,Japanese Electric Power Information Center,https://www.jepic.or.jp/en/,GEODB,
+13913,Japan,,Tsuruga,WRI1000690,1160,35.7519,136.0189,,Japan Atomic Power Co.,Japanese Electric Power Information Center,https://www.jepic.or.jp/en/,GEODB,
+14324,Mexico,,Laguna Verde,MEX0001769,1510,19.7208,-96.4064,,CFE,CFE-CENACE,http://base.energia.gob.mx/nacei/Archivos/3%20P%C3%A1gina%20Datos%20de%20Infraestructura/Ingl%C3%A9s/PowerPlantsAllGE100MW_NorthAmerica_201606.xlsx,North American Cooperation on Energy Information and Comisión Reguladora de Energía,2016
+14541,Netherlands,,Borssele Nuclear Power Station,WRI1019300,485,51.4312,3.7174,1973,EPZ,IAEA,https://www.iaea.org/PRIS/CountryStatistics/CountryDetails.aspx?current=NL,WRI,
+15024,Pakistan,,Chasnupp,WRI1001626,1330,32.392,71.4616,,Pakistan Atomic Energy Commission,Islamabad Chamber of Commerce and Industry,http://icci.com.pk/data/downloads/63/1293619048_1.pdf,GEODB,
+15043,Pakistan,,Kanupp,WRI1001625,137,24.845,66.7888,1971,Pakistan Atomic Energy Commission,Islamabad Chamber of Commerce and Industry,http://icci.com.pk/data/downloads/63/1293619048_1.pdf,GEODB,
+15917,Romania,,NPP Cernavoda,WRI1019093,1298,44.3215,28.0568,,,ENTSOE,https://transparency.entsoe.eu/generation/r2/installedCapacityPerProductionUnit/show,GEODB,
+15951,Russia,,Balakovo NPP,WRI1023915,4000,52.0928,47.9539,,"JSC ""Concern Rosenergoatom""",EnergyBase (RUS),https://energybase.ru/power-plant/Balakovo_NPP,WRI,
+15958,Russia,,Beloyarsk,WRI1003666,1480,56.8417,61.3225,1964,Rosatom,IAEA,http://www.rosenergoatom.ru/wps/wcm/connect/rosenergoatom_copy/site_en/NPP/,CARMA,
+15965,Russia,,Bilibino,WRI1003671,48,68.0503,166.5389,,"JSC ""Concern Rosenergoatom""",EnergyBase (RUS),https://energybase.ru/power-plant/Bilibino_NPP,GEODB,
+16120,Russia,,Kalinn NPP,WRI1003717,4000,57.905,35.0614,,"JSC ""Concern Rosenergoatom""",EnergyBase (RUS),https://energybase.ru/power-plant/Kalinin_NPP,WRI,
+16146,Russia,,Kola NPP,WRI1003733,1760,67.4667,32.4667,,"JSC ""Concern Rosenergoatom""",EnergyBase (RUS),https://energybase.ru/power-plant/Kola_NPP,GEODB,
+16169,Russia,,Kursk,WRI1003744,4000,51.675,35.6056,,"JSC ""Concern Rosenergoatom""",EnergyBase (RUS),https://energybase.ru/power-plant/Kursk_NPP,GEODB,
+16174,Russia,,Leningrad NPP,WRI1003749,4000,59.8528,29.0486,,"JSC ""Concern Rosenergoatom""",EnergyBase (RUS),https://energybase.ru/power-plant/Leningrad_NPP,GEODB,
+16241,Russia,,Novovoronezh,WRI1003775,1880,51.2822,39.21,,"JSC ""Concern Rosenergoatom""",EnergyBase (RUS),https://energybase.ru/power-plant/Novovoronezh_NPP,GEODB,
+16279,Russia,,Rostov NPP,WRI1003791,4000,47.5993,42.3717,2001,Rosatom,IAEA,http://www.rosenergoatom.ru/wps/wcm/connect/rosenergoatom_copy/ronpp/,GEODB,
+16313,Russia,,Smolensk,WRI1003812,3000,54.1647,33.2367,,"JSC ""Concern Rosenergoatom""",EnergyBase (RUS),https://energybase.ru/power-plant/Smolensk_NPP,GEODB,
+16573,Slovakia,,Bohunice Nuclear Power Plant Slovakia,GEODB0002385,880,48.496,17.6816,,,GEODB,http://globalenergyobservatory.org,GEODB,2017
+16590,Slovakia,,Mochovce Nuclear Power Plant Slovakia,GEODB0004330,880,48.2621,18.459,,,GEODB,http://globalenergyobservatory.org,GEODB,2017
+16605,Slovenia,,Krsko (NEK),WRI1022414,696,45.9389,15.516,,,ENTSOE,https://transparency.entsoe.eu/generation/r2/installedCapacityPerProductionUnit/show,GEODB,
+16659,South Africa,,Koeberg,WRI1000137,1800,-33.6737,18.4281,1984,Eskom,Eskom,http://www.eskom.co.za/Whatweredoing/ElectricityGeneration/KoebergNuclearPowerStation/Pages/Koeberg_Power_Station.aspx,WRI,
+16756,South Korea,,Hanbit,WRI1000217,5900,35.4105,126.4175,,Korea Hydro and Nuclear,KHNP,https://cms.khnp.co.kr/eng/plant-status/,GEODB,
+16758,South Korea,,Hanul,WRI1000218,5900,37.0931,129.383,,Korea Hydro and Nuclear,KHNP,https://cms.khnp.co.kr/eng/plant-status/,GEODB,
+16776,South Korea,,Kori,WRI1000213,3137,35.3199,129.2948,,Korea Hydro and Nuclear,KHNP,https://cms.khnp.co.kr/eng/plant-status/,GEODB,
+16805,South Korea,,Shin-Kori,WRI1000214,3340,35.3271,129.3017,,Korea Hydro and Nuclear,KHNP,https://cms.khnp.co.kr/eng/plant-status/,GEODB,
+16806,South Korea,,Shin-Wolsong,WRI1000216,2000,35.7221,129.4786,2012,Korea Hydro and Nuclear,KHNP,https://cms.khnp.co.kr/eng/plant-status/,GEODB,
+16822,South Korea,,Wolsong,WRI1000215,2799,35.7111,129.4743,,Korea Hydro and Nuclear,KHNP,https://cms.khnp.co.kr/eng/plant-status/,GEODB,
+16861,Spain,,ASCO GR,WRI1006213,1990.5,41.2008,0.5679,1983,ENDESA GENERACION S.A.,Red Eléctrica de España,http://www.ree.es/en/statistical-data-of-spanish-electrical-system/annual-report/preliminary-report-spanish-electricity-system-2015,GEODB,
+16914,Spain,,CN ALMARAZ 1,WRI1006358,2016.9,39.807,-5.6986,1984,IBERDROLA GENERACION  S.A.,Red Eléctrica de España,http://www.ree.es/en/statistical-data-of-spanish-electrical-system/annual-report/preliminary-report-spanish-electricity-system-2015,GEODB,
+16915,Spain,,CN COFRENTES,WRI1006359,1063.94,39.2134,-1.0509,1985,IBERDROLA GENERACION NUCLEAR  S.A.U.,Red Eléctrica de España,http://www.ree.es/en/statistical-data-of-spanish-electrical-system/annual-report/preliminary-report-spanish-electricity-system-2015,GEODB,
+17439,Spain,,TRILLO,WRI1007993,1003.41,40.7016,-2.6227,1988,IBERDROLA GENERACION  S.A.,Red Eléctrica de España,http://www.ree.es/en/statistical-data-of-spanish-electrical-system/annual-report/preliminary-report-spanish-electricity-system-2015,GEODB,
+17443,Spain,,VANDELLOS GR 2,WRI1023569,1045.31,40.9511,0.8662,1987,ENDESA GENERACION S.A.,Red Eléctrica de España,http://www.ree.es/en/statistical-data-of-spanish-electrical-system/annual-report/preliminary-report-spanish-electricity-system-2015,WRI,
+17557,Sweden,,Forsmark,WRI1002098,3227,60.4028,18.1744,,65% Vattenfall; E.ON 8.5%; Mellansvensk Kraftgrupp 25.5%,Vattenfall,http://powerplants.vattenfall.com/forsmark,GEODB,
+17640,Sweden,,Oskarshamn,WRI1002168,2603,57.413,16.6683,,,IAEA,https://www.iaea.org/PRIS/CountryStatistics/CountryStatisticsLandingPage.aspx,GEODB,
+17646,Sweden,,Ringhals,WRI1002097,3932,57.2574,12.1087,,70.4% Vattenfall; 29.6% Karnkraft Sverige,Vattenfall,http://powerplants.vattenfall.com/ringhals,GEODB,
+17759,Switzerland,,Kernkraftwerk Beznau,WRI1004271,760,47.552,8.2281,,Axpo AG,Swiss Federal Office of Energy,http://api3.geo.admin.ch/rest/services/api/MapServer/ch.bfe.kernkraftwerke/3/extendedHtmlPopup?lang=en,GEODB,
+17760,Switzerland,,Kernkraftwerk Gösgen,WRI1004272,1035,47.3656,7.968,1979,Kernkraftwerk Gösgen-Däniken AG,Swiss Federal Office of Energy,http://api3.geo.admin.ch/rest/services/api/MapServer/ch.bfe.kernkraftwerke/2/extendedHtmlPopup?lang=en,WRI,
+17761,Switzerland,,Kernkraftwerk Leibstadt,WRI1004273,1245,47.6012,8.1845,1984,Kernkraftwerk leibstadt AG,Swiss Federal Office of Energy,http://api3.geo.admin.ch/rest/services/api/MapServer/ch.bfe.kernkraftwerke/4/extendedHtmlPopup?lang=en,GEODB,
+17762,Switzerland,,Kernkraftwerk Mühleberg,WRI1004274,390,46.9689,7.2684,1972,BWK FMB Energie AG,Swiss Federal Office of Energy,http://api3.geo.admin.ch/rest/services/api/MapServer/ch.bfe.kernkraftwerke/1/extendedHtmlPopup?lang=en,WRI,
+17878,Taiwan,,Chinshan,WRI1000378,1272,25.2861,121.5874,,,IAEA,https://www.iaea.org/pris/,GEODB,
+17891,Taiwan,,Kuosheng,WRI1000379,2040,25.2025,121.6629,,,IAEA,https://www.iaea.org/pris/,GEODB,
+17894,Taiwan,,Maanshan,WRI1000380,1902,21.9589,120.7501,,,IAEA,https://www.iaea.org/pris/,GEODB,
+18262,Ukraine,,Khmelnytska,WRI1005111,2000,50.3024,26.6473,,Energoatom,Energoatom,http://www.energoatom.kiev.ua/en/separated/npp_khmelnytska/,WRI,
+18274,Ukraine,,Rivne (Rouno),WRI1005112,2835,51.3245,25.8974,,Energoatom,Energoatom,http://www.energoatom.kiev.ua/en/separated/npp_rivne/,GEODB,
+18277,Ukraine,,South Ukraine,WRI1005113,3000,47.812,31.22,,Energoatom,Energoatom,http://www.energoatom.kiev.ua/en/separated/npp_su/,GEODB,
+18283,Ukraine,,Zaporozhye,WRI1005114,6000,47.5119,34.5863,,Energoatom,Energoatom,http://www.energoatom.kiev.ua/en/separated/npp_zp/,GEODB,
+19019,United Kingdom,,Dungeness B,GBR1000052,1050,50.9133,0.964,,British Energy (now part of EDF),Department for Business Energy & Industrial Strategy,https://www.gov.uk/government/collections/digest-of-uk-energy-statistics-dukes,GEODB,
+19346,United Kingdom,,Hartlepool,GBR1000053,1180,54.6341,-1.1801,,British Energy (now part of EDF),Department for Business Energy & Industrial Strategy,https://www.gov.uk/government/collections/digest-of-uk-energy-statistics-dukes,GEODB,
+19371,United Kingdom,,Heysham 1,GBR1000054,1155,54.0285,-2.916,,British Energy (now part of EDF),Department for Business Energy & Industrial Strategy,https://www.gov.uk/government/collections/digest-of-uk-energy-statistics-dukes,GEODB,
+19372,United Kingdom,,Heysham 2,GBR1000055,1230,54.0285,-2.916,,British Energy (now part of EDF),Department for Business Energy & Industrial Strategy,https://www.gov.uk/government/collections/digest-of-uk-energy-statistics-dukes,GEODB,
+19420,United Kingdom,,Hinkley Point B,GBR1000056,955,51.2085,-3.1334,,British Energy (now part of EDF),Department for Business Energy & Industrial Strategy,https://www.gov.uk/government/collections/digest-of-uk-energy-statistics-dukes,GEODB,
+19463,United Kingdom,,Hunterston B,GBR1000057,965,55.7204,-4.8964,,British Energy (now part of EDF),Department for Business Energy & Industrial Strategy,https://www.gov.uk/government/collections/digest-of-uk-energy-statistics-dukes,GEODB,
+20374,United Kingdom,,Sizewell B,GBR1000058,1198,52.2145,1.6206,,British Energy (now part of EDF),Department for Business Energy & Industrial Strategy,https://www.gov.uk/government/collections/digest-of-uk-energy-statistics-dukes,GEODB,
+20586,United Kingdom,,Torness,GBR1000059,1185,55.9679,-2.4086,,British Energy (now part of EDF),Department for Business Energy & Industrial Strategy,https://www.gov.uk/government/collections/digest-of-uk-energy-statistics-dukes,GEODB,
+21213,United States of America,,Arkansas Nuclear One,USA0008055,1845,35.311,-93.2351,1977.554201,Entergy Arkansas Inc,U.S. Energy Information Administration,http://www.eia.gov/electricity/data/browser/,U.S. Energy Information Administration,2017
+21454,United States of America,,Beaver Valley,USA0006040,1846.8,40.6219,-80.4336,1981.5,FirstEnergy Nuclear Operating Company,U.S. Energy Information Administration,http://www.eia.gov/electricity/data/browser/,U.S. Energy Information Administration,2017
+21741,United States of America,,Braidwood Generation Station,USA0006022,2449.8,41.2435,-88.2286,1988,Exelon Nuclear,U.S. Energy Information Administration,http://www.eia.gov/electricity/data/browser/,U.S. Energy Information Administration,2017
+21819,United States of America,,Browns Ferry,USA0000046,3494,34.7042,-87.1189,1975.35146,Tennessee Valley Authority,U.S. Energy Information Administration,http://www.eia.gov/electricity/data/browser/,U.S. Energy Information Administration,2017
+21831,United States of America,,Brunswick Nuclear,USA0006014,2003.2,33.9597,-78.0114,1976,Duke Energy Progress - (NC),U.S. Energy Information Administration,http://www.eia.gov/electricity/data/browser/,U.S. Energy Information Administration,2017
+21912,United States of America,,Byron Generating Station,USA0006023,2449.8,42.0742,-89.2819,1986,Exelon Nuclear,U.S. Energy Information Administration,http://www.eia.gov/electricity/data/browser/,U.S. Energy Information Administration,2017
+22036,United States of America,,Callaway,USA0006153,1235.8,38.7589,-91.7788,1985,Union Electric Co - (MO),U.S. Energy Information Administration,http://www.eia.gov/electricity/data/browser/,U.S. Energy Information Administration,2017
+22041,United States of America,,Calvert Cliffs Nuclear Power Plant,USA0006011,1828.7,38.4344,-76.4417,1975.996008,Exelon Nuclear,U.S. Energy Information Administration,http://www.eia.gov/electricity/data/browser/,U.S. Energy Information Administration,2017
+22168,United States of America,,Catawba,USA0006036,2410.2,35.0514,-81.0694,1985.5,Duke Energy Carolinas  LLC,U.S. Energy Information Administration,http://www.eia.gov/electricity/data/browser/,U.S. Energy Information Administration,2017
+22425,United States of America,,Clinton Power Station,USA0000204,1138.3,40.1719,-88.8339,1987,Exelon Nuclear,U.S. Energy Information Administration,http://www.eia.gov/electricity/data/browser/,U.S. Energy Information Administration,2017
+22501,United States of America,,Columbia Generating Station,USA0000371,1200,46.4711,-119.3339,1985,Energy Northwest,U.S. Energy Information Administration,http://www.eia.gov/electricity/data/browser/,U.S. Energy Information Administration,2017
+22511,United States of America,,Comanche Peak,USA0006145,2430,32.2984,-97.7855,1991.5,Luminant Generation Company LLC,U.S. Energy Information Administration,http://www.eia.gov/electricity/data/browser/,U.S. Energy Information Administration,2017
+22552,United States of America,,Cooper Nuclear Station,USA0008036,801,40.3628,-95.6408,1974,Nebraska Public Power District,U.S. Energy Information Administration,http://www.eia.gov/electricity/data/browser/,U.S. Energy Information Administration,2017
+22810,United States of America,,Davis Besse,USA0006149,925.2,41.5967,-83.0861,1977,FirstEnergy Nuclear Operating Company,U.S. Energy Information Administration,http://www.eia.gov/electricity/data/browser/,U.S. Energy Information Administration,2017
+22925,United States of America,,Diablo Canyon,USA0006099,2323,35.2115,-120.8555,1985.501076,Pacific Gas & Electric Co.,U.S. Energy Information Administration,http://www.eia.gov/electricity/data/browser/,U.S. Energy Information Administration,2017
+22983,United States of America,,Donald C Cook,USA0006000,2285.3,41.9756,-86.5652,1976.487726,Indiana Michigan Power Co,U.S. Energy Information Administration,http://www.eia.gov/electricity/data/browser/,U.S. Energy Information Administration,2017
+23009,United States of America,,Dresden Generating Station,USA0000869,2018.6,41.39,-88.27,1970.5,Exelon Nuclear,U.S. Energy Information Administration,http://www.eia.gov/electricity/data/browser/,U.S. Energy Information Administration,2017
+23029,United States of America,,Duane Arnold Energy Center,USA0001060,679.5,42.1011,-91.7781,1975,NextEra Energy Duane Arnold LLC,U.S. Energy Information Administration,http://www.eia.gov/electricity/data/browser/,U.S. Energy Information Administration,2017
+23165,United States of America,,Edwin I Hatch,USA0006051,1721.8,31.9342,-82.3447,1977.506621,Georgia Power Co,U.S. Energy Information Administration,http://www.eia.gov/electricity/data/browser/,U.S. Energy Information Administration,2017
+23414,United States of America,,Fermi,USA0001729,1281,41.9631,-83.2581,1986.900859,DTE Electric Company,U.S. Energy Information Administration,http://www.eia.gov/electricity/data/browser/,U.S. Energy Information Administration,2017
+23910,United States of America,,Grand Gulf,USA0006072,1440,32.0081,-91.0478,1985,System Energy Resources  Inc,U.S. Energy Information Administration,http://www.eia.gov/electricity/data/browser/,U.S. Energy Information Administration,2017
+24053,United States of America,,H B Robinson,USA0003251,768.6,34.4017,-80.1589,1971,Duke Energy Progress - (NC),U.S. Energy Information Administration,http://www.eia.gov/electricity/data/browser/,U.S. Energy Information Administration,2017
+24147,United States of America,,Harris,USA0006015,950.9,35.6334,-78.9556,1987,Duke Energy Progress - (NC),U.S. Energy Information Administration,http://www.eia.gov/electricity/data/browser/,U.S. Energy Information Administration,2017
+24525,United States of America,,Indian Point 2,USA0002497,1299,41.2706,-73.9527,1973,Entergy Nuclear Indian Point 2,U.S. Energy Information Administration,http://www.eia.gov/electricity/data/browser/,U.S. Energy Information Administration,2017
+24526,United States of America,,Indian Point 3,USA0008907,1012,41.2706,-73.9526,1976,Entergy Nuclear Indian Point 3,U.S. Energy Information Administration,http://www.eia.gov/electricity/data/browser/,U.S. Energy Information Administration,2017
+24683,United States of America,,James A Fitzpatrick,USA0006110,883.3,43.5214,-76.4084,1976,Exelon Nuclear,U.S. Energy Information Administration,http://www.eia.gov/electricity/data/browser/,U.S. Energy Information Administration,2017
+24767,United States of America,,Joseph M Farley,USA0006001,1776.4,31.2231,-85.1116,1979.5,Alabama Power Co,U.S. Energy Information Administration,http://www.eia.gov/electricity/data/browser/,U.S. Energy Information Administration,2017
+25010,United States of America,,LaSalle Generating Station,USA0006026,2340,41.2455,-88.6691,1984,Exelon Nuclear,U.S. Energy Information Administration,http://www.eia.gov/electricity/data/browser/,U.S. Energy Information Administration,2017
+25193,United States of America,,Limerick,USA0006105,2277,40.2243,-75.5874,1988,Exelon Nuclear,U.S. Energy Information Administration,http://www.eia.gov/electricity/data/browser/,U.S. Energy Information Administration,2017
+25586,United States of America,,McGuire,USA0006038,2440.6,35.4331,-80.9486,1982.5,Duke Energy Carolinas  LLC,U.S. Energy Information Administration,http://www.eia.gov/electricity/data/browser/,U.S. Energy Information Administration,2017
+25758,United States of America,,Millstone,USA0000566,2162.9,41.3107,-72.1677,1981.793148,Dominion Energy Nuclear Conn Inc,U.S. Energy Information Administration,http://www.eia.gov/electricity/data/browser/,U.S. Energy Information Administration,2017
+25865,United States of America,,Monticello Nuclear Facility,USA0001922,685,45.3338,-93.8493,1971,Northern States Power Co - Minnesota,U.S. Energy Information Administration,http://www.eia.gov/electricity/data/browser/,U.S. Energy Information Administration,2017
+26186,United States of America,,Nine Mile Point Nuclear Station,USA0002589,1901.1,43.5211,-76.41,1981.260902,Exelon Nuclear,U.S. Energy Information Administration,http://www.eia.gov/electricity/data/browser/,U.S. Energy Information Administration,2017
+26220,United States of America,,North Anna,USA0006168,1960.4,38.06,-77.7897,1979.504336,Virginia Electric & Power Co,U.S. Energy Information Administration,http://www.eia.gov/electricity/data/browser/,U.S. Energy Information Administration,2017
+26356,United States of America,,Oconee,USA0003265,2666.7,34.7939,-82.8986,1974.002475,Duke Energy Carolinas  LLC,U.S. Energy Information Administration,http://www.eia.gov/electricity/data/browser/,U.S. Energy Information Administration,2017
+26527,United States of America,,Oyster Creek,USA0002388,550,39.8143,-74.2062,1970,Exelon Nuclear,U.S. Energy Information Administration,http://www.eia.gov/electricity/data/browser/,U.S. Energy Information Administration,2017
+26565,United States of America,,PSEG Hope Creek Generating Station,USA0006118,1290.7,39.4666,-75.5377,1987,PSEG Nuclear LLC,U.S. Energy Information Administration,http://www.eia.gov/electricity/data/browser/,U.S. Energy Information Administration,2017
+26568,United States of America,,PSEG Salem Generating Station,USA0002410,2381.8,39.4625,-75.5358,1978.859602,PSEG Nuclear LLC,U.S. Energy Information Administration,http://www.eia.gov/electricity/data/browser/,U.S. Energy Information Administration,2017
+26593,United States of America,,Palisades,USA0001715,811.8,42.323,-86.3146,1972,Entergy Nuclear Palisades LLC,U.S. Energy Information Administration,http://www.eia.gov/electricity/data/browser/,U.S. Energy Information Administration,2017
+26603,United States of America,,Palo Verde,USA0006008,4209.6,33.3881,-112.8617,1986.666667,Arizona Public Service Co,U.S. Energy Information Administration,http://www.eia.gov/electricity/data/browser/,U.S. Energy Information Administration,2017
+26675,United States of America,,Peach Bottom,USA0003166,2784.6,39.7589,-76.2687,1974.494505,Exelon Nuclear,U.S. Energy Information Administration,http://www.eia.gov/electricity/data/browser/,U.S. Energy Information Administration,2017
+26724,United States of America,,Perry,USA0006020,1311.6,41.8006,-81.1439,1987,FirstEnergy Nuclear Operating Company,U.S. Energy Information Administration,http://www.eia.gov/electricity/data/browser/,U.S. Energy Information Administration,2017
+26767,United States of America,,Pilgrim Nuclear Power Station,USA0001590,670,41.9438,-70.578,1973,Entergy Nuclear Generation Co,U.S. Energy Information Administration,http://www.eia.gov/electricity/data/browser/,U.S. Energy Information Administration,2017
+26866,United States of America,,Point Beach Nuclear Plant,USA0004046,1311,44.2806,-87.5369,1971.452326,NextEra Energy Point Beach LLC,U.S. Energy Information Administration,http://www.eia.gov/electricity/data/browser/,U.S. Energy Information Administration,2017
+26941,United States of America,,Prairie Island,USA0001925,1186.2,44.622,-92.6333,1974,Northern States Power Co - Minnesota,U.S. Energy Information Administration,http://www.eia.gov/electricity/data/browser/,U.S. Energy Information Administration,2017
+27014,United States of America,,Quad Cities Generating Station,USA0000880,2018.6,41.7261,-90.3103,1973,Exelon Nuclear,U.S. Energy Information Administration,http://www.eia.gov/electricity/data/browser/,U.S. Energy Information Administration,2017
+27039,United States of America,,R E Ginna Nuclear Power Plant,USA0006122,614,43.2777,-77.3099,1970,Exelon Nuclear,U.S. Energy Information Administration,http://www.eia.gov/electricity/data/browser/,U.S. Energy Information Administration,2017
+27252,United States of America,,River Bend,USA0006462,1035.9,30.757,-91.3327,1986,Entergy Louisiana LLC,U.S. Energy Information Administration,http://www.eia.gov/electricity/data/browser/,U.S. Energy Information Administration,2017
+27664,United States of America,,Seabrook,USA0006115,1242,42.8992,-70.8489,1990,NextEra Energy Seabrook LLC,U.S. Energy Information Administration,http://www.eia.gov/electricity/data/browser/,U.S. Energy Information Administration,2017
+27704,United States of America,,Sequoyah,USA0006152,2441,35.2267,-85.0917,1981.5,Tennessee Valley Authority,U.S. Energy Information Administration,http://www.eia.gov/electricity/data/browser/,U.S. Energy Information Administration,2017
+28016,United States of America,,South Texas Project,USA0006251,2708.6,28.795,-96.0481,1988.5,STP Nuclear Operating Co,U.S. Energy Information Administration,http://www.eia.gov/electricity/data/browser/,U.S. Energy Information Administration,2017
+28119,United States of America,,St Lucie,USA0006045,2160,27.3486,-80.2464,1979.5,Florida Power & Light Co,U.S. Energy Information Administration,http://www.eia.gov/electricity/data/browser/,U.S. Energy Information Administration,2017
+28324,United States of America,,Surry,USA0003806,1695,37.1661,-76.6986,1973,Virginia Electric & Power Co,U.S. Energy Information Administration,http://www.eia.gov/electricity/data/browser/,U.S. Energy Information Administration,2017
+28412,United States of America,,TalenEnergy Susquehanna,USA0006103,2596,41.0919,-76.1462,1984,TalenEnergy Susquehanna LLC,U.S. Energy Information Administration,http://www.eia.gov/electricity/data/browser/,U.S. Energy Information Administration,2017
+28651,United States of America,,Turkey Point,USA0000621,2861.2,25.4356,-80.3308,1987.544946,Florida Power & Light Co,U.S. Energy Information Administration,http://www.eia.gov/electricity/data/browser/,U.S. Energy Information Administration,2017
+28795,United States of America,,V C Summer,USA0006127,1029.6,34.2983,-81.3153,1984,South Carolina Electric&Gas Company,U.S. Energy Information Administration,http://www.eia.gov/electricity/data/browser/,U.S. Energy Information Administration,2017
+28916,United States of America,,Vogtle,USA0000649,2300,33.1427,-81.7625,1988,Georgia Power Co,U.S. Energy Information Administration,http://www.eia.gov/electricity/data/browser/,U.S. Energy Information Administration,2017
+29080,United States of America,,Waterford 3,USA0004270,1199.8,29.9953,-90.4716,1985,Entergy Louisiana LLC,U.S. Energy Information Administration,http://www.eia.gov/electricity/data/browser/,U.S. Energy Information Administration,2017
+29098,United States of America,,Watts Bar Nuclear Plant,USA0007722,2539.8,35.6021,-84.7895,2006,Tennessee Valley Authority,U.S. Energy Information Administration,http://www.eia.gov/electricity/data/browser/,U.S. Energy Information Administration,2017
+29423,United States of America,,Wolf Creek Generating Station,USA0000210,1267.7,38.2393,-95.6898,1985,Wolf Creek Nuclear Optg Corp,U.S. Energy Information Administration,http://www.eia.gov/electricity/data/browser/,U.S. Energy Information Administration,2017
