@@ -25,5 +25,5 @@ Adding more interactive features, including a field to input chosen holiday dest
 
 ## Credits
 * Radioactive icon made by [WesleyV](https://www.flaticon.com/authors/wesleyv) from [Flaticon](https://www.flaticon.com/).
-* Skull icon 
+* Skull icon [source](https://en.m.wikipedia.org/wiki/File:Skull-Icon.svg)
 * [r/shittypowers](https://www.reddit.com/r/shittysuperpowers/) for crowd-sourced bad super powers. 
